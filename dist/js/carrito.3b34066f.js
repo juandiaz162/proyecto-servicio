@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["carrito"],{"1c71":function(n,t,e){"use strict";e.r(t);var a=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("v-container")},r=[],c=(e("2f62"),{name:"carrito",data:function(){return{}},methods:{},created:function(){}}),o=c,i=e("2877"),u=e("6544"),l=e.n(u),s=e("a523"),f=Object(i["a"])(o,a,r,!1,null,null,null);t["default"]=f.exports;l()(f,{VContainer:s["a"]})}}]);
+//# sourceMappingURL=carrito.3b34066f.js.map

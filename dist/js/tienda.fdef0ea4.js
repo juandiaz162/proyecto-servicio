@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["tienda"],{f1e8:function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("v-container",[t("v-content",[t("router-view")],1)],1)},o=[],r=t("9575"),c={name:"tienda",components:{ToolbarTienda:r["a"]}},i=c,l=t("2877"),u=t("6544"),s=t.n(u),p=t("a523"),w=t("549c"),d=Object(l["a"])(i,a,o,!1,null,null,null);e["default"]=d.exports;s()(d,{VContainer:p["a"],VContent:w["a"]})}}]);
+//# sourceMappingURL=tienda.fdef0ea4.js.map
